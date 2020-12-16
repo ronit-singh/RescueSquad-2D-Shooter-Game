@@ -15,8 +15,8 @@ __Game Features__
 
 Here are some screenshots of the game:
 
-1. <img src="mainscreen.PNG" width="260"> &emsp; 2. <img src="location.PNG" width="260"> &emsp; 3. <img src="level1.PNG" width="260">
+1. <img src="mainscreen.PNG" width="260"> &emsp; 4. <img src="location.PNG" width="260"> &emsp; 7. <img src="level1.PNG" width="260">
 
-4. <img src="level2.PNG" width="260"> &emsp; 5. <img src="level3.PNG" width="260"> &emsp; 6. <img src="killed.PNG" width="260">
+2. <img src="level2.PNG" width="260"> &emsp; 5. <img src="level3.PNG" width="260"> &emsp; 8. <img src="killed.PNG" width="260">
 
-7. <img src="endscreen.PNG" width="260"> &emsp; 8. <img src="gunselect.PNG" width="260"> &emsp; 9. <img src="howtoplay.PNG" width="260">
+3. <img src="endscreen.PNG" width="260"> &emsp; 6. <img src="gunselect.PNG" width="260"> &emsp; 9. <img src="howtoplay.PNG" width="260">
