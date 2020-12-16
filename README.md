@@ -22,5 +22,3 @@ Here are some screenshots of the game:
 5. <img src="level3.PNG" width="260"> &emsp; 6. <img src="killed.PNG" width="260">
 
 7. <img src="endscreen.PNG" width="260"> &emsp; 8. <img src="gunselect.PNG" width="260">
-
-9. <img src="howtoplay.PNG" width="260">
