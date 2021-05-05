@@ -4,8 +4,6 @@
 
 Programming language used: __Python and Processing GUI__
 
-Fun Fact: __Scored 93.3% (missed by 1 point)!__ 🤷‍♀️
-
 __Game Features__
 - 3 Levels - Mansion (Easy), Hotel (Medium), and Dungeon (Hard).
 - The shooter sprite has ability to navigate using W, A, S, D keys, rotate using mouse, and shoot bullets on left mouse click.
